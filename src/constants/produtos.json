@@ -1,16 +1,51 @@
 [
   {
     "id": 1,
-    "name": "Perfume",
-    "desc": "Miguel Rousseouf",
-    "value": "100.00",
-    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg"
+    "name": "GLOSS AUMENTO VOLUME LÁBIOS",
+    "desc": "Gloss Vermelho",
+    "value": "45.90",
+    "image": "../../src/assets/5470fdfb8957e84b989500ff1696985c653e5941d9103.webp",
+    "categoria" : "Gloss",
+    "status" : true
   },
+
   {
     "id": 2,
-    "name": "Colar",
-    "desc": "Jand Karno em perolas",
-    "value": "2200.00",
-    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg"
+    "name": "GLOSS GLOSSIP GOLD",
+    "desc": "Gloss Brilho",
+    "value": "39.90",
+    "image": "../../src/assets/add7cbffb36e253fa0f81d6e6c522b98653e594719b86.webp",
+    "categoria" : "Gloss",
+    "status" : true
+  },
+
+  {
+    "id": 3,
+    "name": "GLOSS GLOSSIP GIRL",
+    "desc": "Gloss Refletivo",
+    "value": "39.90",
+    "image": "../../src/assets/c144bbc965c6b0caf34a0dc4c1dec8f1653e594af0fd6.webp",
+    "categoria" : "Gloss",
+    "status" : true
+  },
+
+  {
+    "id": 4,
+    "name": "GREENCHILLI EDIÇÃO LIMITADA",
+    "desc": "Gloss Verde",
+    "value": "51.90",
+    "image": "../../src/assets/greenchilli-fran-by-fr-01.webp",
+    "categoria" : "Gloss",
+    "status" : false
+  },
+
+  {
+    "id": 5,
+    "name": "gloss chocolate",
+    "desc": "CHOCOCHILLI EDIÇÃO LIMITADA",
+    "value": "51.90",
+    "image": "../../src/assets/5470fdfb8957e84b989500ff1696985c653e5941d9103.webp",
+    "categoria" : "Gloss",
+    "status" : false
   }
 ]
