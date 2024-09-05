@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: center;
   gap: 1vw;
+  top: 0;
 }
 
 .wrapPage {
