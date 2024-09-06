@@ -8,8 +8,8 @@ npm run dev
 
 \_\_\_TAREFAS GERAIS - 0,5ptos (0,25 cada)
 
-- os botoes devem ficar fixos na tela, no top "0".
-- todas as imagens devem estar baixadas dentro da pasta assets podendo alterar o tema do json se quiserem
+<del>- os botoes devem ficar fixos na tela, no top "0".</del>
+<del>- todas as imagens devem estar baixadas dentro da pasta assets podendo alterar o tema do json se quiserem</del>
 
 \_\_\_GIT - 2,0ptos (1,0 cada)
 
@@ -18,11 +18,11 @@ npm run dev
 
 \_\_\_PRODUTOS - 1,5ptos (0,3cada)
 
-- Devem ser incluidos mais 3 produtos relacionados no arquivo json
-- o json esta faltando os itens Categoria e o status
-- No Card dos produtos o fundo deve contrastar com o fundo do body, estao iguais as cores e uma bolinha vermelha deve aparecer se o status for false e verde se for true, isto pois vermelho representa mostruario e verde para venda.
-- o componente Card deve ser desestruturado e o nome das propriedades usados diretamente no corpo do arquivo.
-- o flex wrap para os cards em row deve ser aplicado
+<del>- Devem ser incluidos mais 3 produtos relacionados no arquivo json</del>
+<del>- o json esta faltando os itens Categoria e o status</del>
+<del>- No Card dos produtos o fundo deve contrastar com o fundo do body, estao iguais as cores e uma bolinha vermelha deve aparecer se o status for false e verde se for true, isto pois vermelho representa mostruario e verde para venda.</del>
+<del>- o componente Card deve ser desestruturado e o nome das propriedades usados diretamente no corpo do arquivo.</del>
+<del>- o flex wrap para os cards em row deve ser aplicado</del>
 
 \_\_\_API - 2,0ptos (0,5 cada)
 

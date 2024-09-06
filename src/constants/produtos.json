@@ -41,10 +41,10 @@
 
   {
     "id": 5,
-    "name": "gloss chocolate",
-    "desc": "CHOCOCHILLI EDIÇÃO LIMITADA",
+    "name":"CHOCOCHILLI EDIÇÃO LIMITADA",
+    "desc":  "gloss chocolate",
     "value": "51.90",
-    "image": "../../src/assets/5470fdfb8957e84b989500ff1696985c653e5941d9103.webp",
+    "image": "../../src/assets/354953e59f26746a236f88b085429f32653e58df4335b.webp",
     "categoria" : "Gloss",
     "status" : false
   }

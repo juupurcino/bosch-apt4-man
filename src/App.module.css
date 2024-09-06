@@ -20,5 +20,11 @@
   padding: 10px;
   background-color: rgb(47, 47, 47);
   flex-wrap: row;
+  background-color: palevioletred;
 }
 
+.config{
+
+  display: flex;
+  flex-direction: row;
+}
