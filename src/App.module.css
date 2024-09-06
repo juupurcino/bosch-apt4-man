@@ -26,5 +26,10 @@
 .config{
 
   display: flex;
-  flex-wrap: row;
+  flex-wrap: wrap;
+}
+
+.card {
+
+  margin: 2%;
 }
