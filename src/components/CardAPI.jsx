@@ -1,6 +1,7 @@
 import styleCard from './Card.module.css'
 
 /* eslint-disable react/prop-types */
+
 export const CardAPI = ({name, status, species, type, gender, image}) => {
   return(
       <div className={styleCard.card}>
@@ -13,3 +14,4 @@ export const CardAPI = ({name, status, species, type, gender, image}) => {
       </div>
   )
 }
+
