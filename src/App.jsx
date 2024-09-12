@@ -5,19 +5,21 @@ import "leaflet-defaulticon-compatibility";
 
 function App() {
 
-  return (
-    <>
-    <div className={style.wrapBtns}>
-      <a href={`/Consumo`}>API</a>
-      <a href={`/Produtos`}>API</a>
-      <a href={`/Map`}>API</a>
-      
-    </div>
-    <div  className={style.wrapPage}>
-      <h1>Exercícios de manutenção</h1>
-    </div>
-    </>
-  )
+    return (
+      <>
+      <div className={style.wrapBtns}>
+        <button><a href='/Consumo'>Consumo</a></button>
+        <button><a href='/Produtos'>Produtos</a></button>
+        <button><a href='/Map'>Map</a></button>
+        <button><a href='/Grafico'>Gráfico</a></button>
+        
+      </div>
+      <div  className={style.wrapPage}>
+        <h1>Exercícios de manutenção</h1>
+      </div>
+      </>
+    )
 }
+
 
 export default App

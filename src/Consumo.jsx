@@ -2,7 +2,7 @@ import { api } from "./api/rmApi"
 import { CardAPI } from './components/CardAPI'
 import style from './App.module.css'
 import { useState, useEffect } from 'react'
-
+import App from './App.jsx'
 
 export default function Consumo(){
 
@@ -28,6 +28,7 @@ export default function Consumo(){
   return(
 
         <>
+        <App/>
             <h2>Rick and Morty API</h2>
             <div>
                 <input type="text" placeholder="1/43" value={page} onChange={(event) => setPage(event.target.value)}/>

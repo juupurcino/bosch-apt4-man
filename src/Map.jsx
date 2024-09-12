@@ -2,6 +2,7 @@ import { MapContainer, TileLayer, Marker, Popup} from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css';
 import "leaflet-defaulticon-compatibility";
+import App from './App.jsx'
 
 export default function Map(){
 
@@ -10,6 +11,7 @@ export default function Map(){
     return(
 
         <>
+      <App/>
       <h2>Mapa</h2>
           <div>
               <MapContainer center={position} zoom={13} scrollWheelZoom={false} style={{width:'100vw', height:'100vh'}}>
